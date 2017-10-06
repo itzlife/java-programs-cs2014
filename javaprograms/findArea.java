@@ -25,10 +25,10 @@ class findArea {
         try {
             System.out.print("Enter radius to find area of circle and sphere:");
             r = Integer.parseInt(din.readLine());
-            Circle c1 = new Circle();
-            Sphere s1 = new Sphere();
-            System.out.println("Area of Circle:" + c1.area(r));
-            System.out.println("Area of Sphere:" + s1.area(r));
+            areaCircle a1= new areaCircle();
+            areaSphere a2= new areaSphere();
+            System.out.println("Area of Circle:" + a1.area(r));
+            System.out.println("Area of Sphere:" + a2.area(r));
         } catch (Exception e) {
             System.out.println(e.getMessage());
         }
