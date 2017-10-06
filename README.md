@@ -1,7 +1,7 @@
-Java programs for UG students 2014 Under Calicut University
+## Java programs for UG students 2014 Under Calicut University
 
 
-## Program List
+### Program List
     1. Write a program to calculate the electricity bill by reading the consumer no and no of units consumed. The charges for different slabs are given below
         Up to 50 units	Rs. 1.5 per unit
         50 – 100 units	Rs. 2 per unit
